@@ -1,0 +1,5 @@
+intente plasmar la idea de un mini juego pero no quedo todavia.
+necesito que el personaje con IA tambien salte junto conmigo los obstaculos (en este caso las plataformas locas)
+en el caso de las plataformas, falta acomodar la mecanica de esta
+hay que optimizar el fdm del personaje enemigo
+faltan un par de sonidos
